@@ -19,7 +19,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ### Links
 
 - Solution URL: https://github.com/NitiMittal/Profile-card-component
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://profilecarddemo.netlify.app/
 
 ## My process
 
