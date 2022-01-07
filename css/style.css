@@ -42,8 +42,6 @@ body {
   align-items: center;
   flex-direction: column;
   overflow: hidden;
-
-  /* background-image: url("../images/bg-pattern-top.svg"); */
 }
 
 .card {
@@ -87,7 +85,6 @@ body {
 }
 
 .card hr {
-  /* border: 0.1px solid var(--darkGray); */
   width: 300px;
   margin: 20px;
   color: var(--darkGray);
@@ -112,9 +109,6 @@ body {
   font-size: 16px;
 }
 
-footer {
-  margin-top: 90px;
-}
 .attribution {
   font-size: 18px;
   text-align: center;
